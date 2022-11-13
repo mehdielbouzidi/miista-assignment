@@ -21,7 +21,7 @@ A very nice assignment, realistic and challenging assignment where I used Next a
 - Display products
 - Build pagination
 - Build filter (categories)
-- Build filter (categories)
+- Build filter (colors)
 
 Things I still need to look in to:
 - Build filter (price)
